@@ -11,11 +11,11 @@ WARNING: NEVER USE TO SPREAD MISNFORMATION AND DOXXING! ONLY USE FOR REAL WHISTE
 
 # plataforms 
 
--[Securedrop](https://securedrop.org/)
--[Wildleaks](https://wildleaks.org/)
--[Freedomofpressfoundation](https://freedom.press/)
--[Frontlinedefenders](https://www.frontlinedefenders.org/en)
--[Freepressunlimited](https://www.freepressunlimited.org)
+- [Securedrop](https://securedrop.org/)
+- [Wildleaks](https://wildleaks.org/)
+- [Freedomofpressfoundation](https://freedom.press/)
+- [Frontlinedefenders](https://www.frontlinedefenders.org/en)
+- [Freepressunlimited](https://www.freepressunlimited.org)
 
 # operating-system
 
