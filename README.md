@@ -19,7 +19,7 @@ WARNING: NEVER USE TO SPREAD MISNFORMATION AND DOXXING! ONLY USE FOR REAL WHISTE
 
 # operating-system
 
-- [Tails](https://stackoverflow.com) - 
+- [Tails](https://stackoverflow.com)
 - [Whonix](https://www.whonix.org/)
 - [Qubeos](https://www.qubes-os.org/)
 - [Grapheneos](https://grapheneos.org/)
